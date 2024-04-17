@@ -1,6 +1,6 @@
 package modelLoader
 
-// #cgo LDFLAGS: -L/home/ayush.goya/minimalExample/modelLoader/ -l_lightgbm
+// #cgo LDFLAGS: -L/home/ayush.goya/minimalExample/ -l_lightgbm
 // #include "c_api.h"
 // #include <stdio.h>
 // #include <stdlib.h>
